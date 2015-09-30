@@ -5,7 +5,7 @@ A Python based customizable script for getting/scraping links to videos hosted o
 I created this script for my friend who hasn't watched all the videos in the Maths section from [gre.magoosh.com](http://gre.magoosh.com) and was worried about his subscription, that was going to end soon. There were way too many links to click and download each video. So I built this script with just 2 hours of effort to scrape all the links to the videos (where they were directly hosted, in this case, Cloudfront), so that he can download all the videos in one shot.
 
 ### Demo:
-[![Vidpy Demo Video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://youtu.be/yr1EYLmSIdo)
+[![Vidpy Demo Video](http://img.youtube.com/vi/yr1EYLmSIdo/0.jpg)](http://youtu.be/yr1EYLmSIdo)
 
 #### Requirements:
 - A valid subscription is neccessary for downloading videos off the site.
