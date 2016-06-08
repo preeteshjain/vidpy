@@ -2,14 +2,14 @@
 A Python based customizable script for getting/scraping links to videos hosted on any website. Implemented using Scrapy and BeautifulSoup.
 
 #### Why?
-I created this script for my friend who hasn't watched all the videos in the Maths section from [gre.magoosh.com](http://gre.magoosh.com) and was worried about his subscription, that was going to end soon. There were way too many links to click and download each video. So I built this script with just 2 hours of effort to scrape all the links to the videos (where they were directly hosted, in this case, Cloudfront), so that he can download all the videos in one shot.
+I created this script for my friend who didn't watch all the videos in the Maths section from [gre.magoosh.com](http://gre.magoosh.com) and was worried about his ending subscription. There were way too many steps to go through and download all the videos. So I built this script with just 2 hours of effort to scrape all the links to the videos (where they were directly hosted, in this case, Cloudfront), so that he can download all the videos in one go.
 
 ### Demo:
 [![Vidpy Demo Video](http://img.youtube.com/vi/yr1EYLmSIdo/0.jpg)](http://youtu.be/yr1EYLmSIdo)
 
 #### Requirements:
 - A valid subscription is neccessary for downloading videos off the site.
-- Scrapy and BeautifulSoup should be installed for the program to work. Links:
+- Scrapy and BeautifulSoup should be installed for the script to work. Links:
     - [Install Scrapy](http://doc.scrapy.org/en/1.0/intro/install.html)
     - [Install BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
 
